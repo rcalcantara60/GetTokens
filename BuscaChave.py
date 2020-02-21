@@ -3,7 +3,7 @@ import cherrypy
 config = {
   'global' : {
     'server.socket_host' : 'site1.mydomain.com',
-    'server.socket_port' : 8099,
+    'server.socket_port' : 8098,
     'server.thread_pool' : 8
   },
 }
